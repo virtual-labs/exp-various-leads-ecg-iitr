@@ -1,39 +1,55 @@
 {
   "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
+  "questions":[
+		{
+		"question":"____ Electrodes are used in a 12-lead ECG:",
+		"answers":{
+		"a":"9",
+		"b":"10",
+		"c":"12",
+		"d":"Logic gates"
+		},
+		"correctAnswer":"b",
+		"difficulty": "beginner"
+		},
+		{"question":"The colour for the RA Electrode is:",
+		"answers":{
+		"a":"White",
+		"b":"Black",
+		"c":"Red",
+		"d":"Green"},
+		"correctAnswer":"a",
+		"difficulty": "beginner"
+		},
+		{"question":"The colour for the LA Electrode is:",
+		"answers":{
+		"a":"White",
+		"b":"Black",
+		"c":"Red",
+		"d":"Green"
+		},
+		"correctAnswer":"b",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"The colour for the RL Electrode is:",
+		"answers":{
+		"a":"White",
+		"b":"Black",
+		"c":"Red",
+		"d":"Green"
+		},
+		"correctAnswer":"d",
+		"difficulty": "beginner"
+		},
+		{"question":"The colour for the LL Electrode is:",
+		"answers":{
+		"a":"White",
+		"b":"Black",
+		"c":"Red",
+		"d":"Green"},
+		"correctAnswer":"c",
+		"difficulty": "beginner"
+	}
   ]
 }

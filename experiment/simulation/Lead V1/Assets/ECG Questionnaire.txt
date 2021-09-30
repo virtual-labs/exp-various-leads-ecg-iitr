@@ -1,0 +1,50 @@
+The P-Wave of the ECG indicates:	Atrial Depolarisation	Ventricular Depolarisation	Atrial Repolarisation	Ventricular Repolarisation	a
+The T-Wave of the ECG indicates:	Atrial Depolarisation	Ventricular Depolarisation	Atrial Repolarisation	Ventricular Repolarisation	d
+The QRS Complex of the ECG indicates:	Atrial Depolarisation	Ventricular Depolarisation	Atrial Repolarisation	Ventricular Repolarisation	b
+The typical Paper Speed for ECG Acquisition is:	20mm/sec	25mm/sec	40mm/sec	50mm/sec	b
+Each 1-mm square in an ECG represents in time:	40 msec	25 msec	20 msec	10 msec	a
+Each 1-mm square in an ECG is in voltage:	10 mV	1 mV	0.1 mV	100 mV	c
+A Calibration Pulse in an ECG is:	1 mV	10 mV	0.1 mV	100 mV	a
+Electrical Impulses in the heart originate at:	SA Node	AV Node	Bundle of His	Purkinje Fibres	a
+____ Electrodes are used in a 12-lead ECG:	9	10	12	4	b
+____ Leads in a 12-lead ECG are Unipolar:	Limb Leads	Chest Leads	Augmented Leads	Chest & Augmented Leads	d
+____ Leads in a 12-lead ECG are Bipolar:	Limb Leads	Chest Leads	Augmented Leads	Chest & Augmented Leads	a
+Inferior Leads in the Clinical Lead Groups are:	V1 and V2	I, aVL, V5 and V6	II, III and aVF	V3 and V4	c
+Lateral Leads in the Clinical Lead Groups are:	V1 and V2	I, aVL, V5 and V6	II, III and aVF	V3 and V4	b
+Septal Leads in the Clinical Lead Groups are:	V1 and V2	I, aVL, V5 and V6	II, III and aVF	V3 and V4	a
+Anterior Leads in the Clinical Lead Groups are:	V1 and V2	I, aVL, V5 and V6	II, III and aVF	V3 and V4	d
+____ is used as a Ground in acquiring an ECG:	RA	LA	RL	LL	c
+The Hexaxial Reference System is based on:	Limb Leads	Chest & Augmented Leads	Limb & Augmented Leads	Augmented Leads	c
+Lead I is the signal taken between:	RA & LA	RA & LL	LA & LL	RA & RL	a
+Lead II is the signal taken between:	RA & LA	RA & LL	LA & LL	RA & RL	b
+Lead III is the signal taken between:	RA & LA	RA & LL	LA & LL	RA & RL	c
+A First Degree AV Block is seen in an ECG as:	Wide QRS Complex	Elongated PR Interval	Depressed ST Segment	Absence of QRS Complex	b
+A Second Degree AV Block is seen in an ECG as:	Wide QRS Complex	Elongated PR Interval	Depressed ST Segment	Missed QRS Complex	d
+A Third Degree AV Block is seen in an ECG as:	Unrelated P & QRS Waves	Elongated PP Interval	Elongated RR Interval	Absence of QRS Complex	a
+Higher than Normal Heart Rate is:	Tachycardia	Bradycardia	Arrhythmia	Fibrillation	a
+Slower than Normal Heart Rate is:	Tachycardia	Bradycardia	Arrhythmia	Fibrillation	b
+Normal Duration of the PR Interval is:	120 - 200 msec	80 - 100 msec	60 - 100 msec	200 - 400 msec	a
+Normal Duration of the P Wave is:	120 - 200 msec	80 - 100 msec	60 - 100 msec	200 - 400 msec	b
+Normal Duration of the QRS Complex is:	120 - 200 msec	80 - 100 msec	60 - 100 msec	200 - 400 msec	c
+Normal Duration of the QT Interval is:	120 - 200 msec	80 - 100 msec	60 - 100 msec	200 - 400 msec	d
+The RR Interval is an indicator of:	Ventricular Rate	Atrial Rate	Ventricular & Atrial Rate	None of these	a
+The PP Interval is an indicator of:	Ventricular Rate	Atrial Rate	Ventricular & Atrial Rate	None of these	b
+Atrial Fibrillation is seen in an ECG as:	Missed P Waves	Missed QRS Complexes	Missed T Waves	None of these	a
+A Flat or Depressed ST Segment indicates:	Coronary Ischemia	Bradycardia	Arrhythmia	None of these	a
+A Raised ST Segment indicates:	Coronary Ischemia	Tachycardia	Bradycardia	Myocardial Infarction	d
+____ is isoelectric in a Normal ECG:	PR Segment	ST Segment	Both of these	None of these	c
+A prolonged P wave is an indication of:	Atrial Fibrillation	L Atrial Enlargement	R Atrial Enlargement	None of these	b
+A P wave with increased amplitude indicates:	Atrial Fibrillation	L Atrial Enlargement	R Atrial Enlargement	None of these	c
+Bundle Branch Blocks are seen on the ECG as:	Absent P wave	Prolonged P wave duration	Prolonged QRS Duration	None of these	c
+Pacemaker stimulus appears on the ECG as:	An Exta Wave	A Spike	or Straight Line	Baseline Wander	Does not appear on the ECG	b
+Atrial Pacemaker Stimulus appears on the ECG:	Before the P wave	Before the QRS Complex	During the QRS Complex	Before the T Wave	a
+Ventricular Pacemaker Stimulus appears on a ECG:	Before the P wave	Before the QRS Complex	During the QRS Complex	Before the T Wave	b
+The J-Point on ECG is:	End of Q & start of R	End of P & Start of PR Interval	End of S & Beginning of ST Segment	End of PR Interval & start of R Wave	c
+Einthoven’s equation states that:	I = II + III	II = I + III	III = I + II	I + II + III = 0	b
+The PR segment is from:	Start of P to end of R wave	End of P to start of R wave	End of P to start of QRS wave	start of P to start of R wave	c
+The ST segment is from:	Start of QRS to end of T wave	End of QRS to start of T wave	Start of S to start of T wave	start of S to end of T wave	b
+The colour for the RA Electrode is:	White	Black	Red	Green	a
+The colour for the LA Electrode is:	White	Black	Red	Green	b
+The colour for the RL Electrode is:	White	Black	Red	Green	d
+The colour for the LL Electrode is:	White	Black	Red	Green	c
+Using Kirchoff’s Law, polarity of:	I + II + III = 0	I = II + III	II = I + III	III = I + II	a

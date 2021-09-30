@@ -1,1 +1,1 @@
-### Aim of the experiment
+#### To study various leads for monitoring of electrocardiogram (ECG).

@@ -9,7 +9,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/right connections1.PNG" style="height:250px;width:355px;"><br>
   <b><p>STEP 2 : Click on check button to check for Correct Connections.</p></b>
   <b><p>STEP 3 : If Connections are not correct click on reset button for reset connections.</p></b>
-   <b><p>STEP 4 :  click on print button for to save the observations.</p></b>
+   <b><p>STEP 4 :  click on print button to save the observations.</p></b>
 
 <br>
 
@@ -21,7 +21,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/right connections2.PNG" style="height:250px;width:355px;"><br>
   <b><p>STEP 2 : Click on check button to check for Correct Connections.</p></b>
   <b><p>STEP 3 : If Connections are not correct click on reset button for reset connections.</p></b>
-   <b><p>STEP 4 :  click on print button for to save the observations.</p></b>
+   <b><p>STEP 4 :  click on print button to save the observations.</p></b>
 
    <br>
 
@@ -33,7 +33,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/right connections3.PNG" style="height:250px;width:355px;"><br>
   <b><p>STEP 2 : Click on check button to check for Correct Connections.</p></b>
   <b><p>STEP 3 : If Connections are not correct click on reset button for reset connections.</p></b>
-   <b><p>STEP 4 :  click on print button for to save the observations.</p></b>
+   <b><p>STEP 4 :  click on print button to save the observations.</p></b>
 
 <br>
 
@@ -45,7 +45,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/right connections4.PNG" style="height:250px;width:355px;"><br>
   <b><p>STEP 2 : Click on check button to check for Correct Connections.</p></b>
   <b><p>STEP 3 : If Connections are not correct click on reset button for reset connections.</p></b>
-   <b><p>STEP 4 :  click on print button for to save the observations.</p></b>
+   <b><p>STEP 4 :  click on print button to save the observations.</p></b>
 
 <br>
 
@@ -57,7 +57,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/right connections5.PNG" style="height:250px;width:355px;"><br>
   <b><p>STEP 2 : Click on check button to check for Correct Connections.</p></b>
   <b><p>STEP 3 : If Connections are not correct click on reset button for reset connections.</p></b>
-   <b><p>STEP 4 :  click on print button for to save the observations.</p></b>
+   <b><p>STEP 4 :  click on print button to save the observations.</p></b>
 
 <br>
 
@@ -69,7 +69,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/right connections6.PNG" style="height:250px;width:355px;"><br>
   <b><p>STEP 2 : Click on check button to check for Correct Connections.</p></b>
   <b><p>STEP 3 : If Connections are not correct click on reset button for reset connections.</p></b>
-   <b><p>STEP 4 :  click on print button for to save the observations.</p></b>
+   <b><p>STEP 4 :  click on print button to save the observations.</p></b>
 
 <br>
 
@@ -81,7 +81,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/right connections7.PNG" style="height:250px;width:355px;"><br>
   <b><p>STEP 2 : Click on check button to check for Correct Connections.</p></b>
   <b><p>STEP 3 : If Connections are not correct click on reset button for reset connections.</p></b>
-   <b><p>STEP 4 :  click on print button for to save the observations.</p></b>
+   <b><p>STEP 4 :  click on print button to save the observations.</p></b>
 
 <br>
 
@@ -93,7 +93,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/right connections8.PNG" style="height:250px;width:355px;"><br>
   <b><p>STEP 2 : Click on check button to check for Correct Connections.</p></b>
   <b><p>STEP 3 : If Connections are not correct click on reset button for reset connections.</p></b>
-   <b><p>STEP 4 :  click on print button for to save the observations.</p></b>
+   <b><p>STEP 4 :  click on print button to save the observations.</p></b>
 
 <br>
 
@@ -105,7 +105,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/right connections9.PNG" style="height:250px;width:355px;"><br>
   <b><p>STEP 2 : Click on check button to check for Correct Connections.</p></b>
   <b><p>STEP 3 : If Connections are not correct click on reset button for reset connections.</p></b>
-   <b><p>STEP 4 :  click on print button for to save the observations.</p></b>
+   <b><p>STEP 4 :  click on print button to save the observations.</p></b>
 
 <br>
 
@@ -117,7 +117,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/right connections10.PNG" style="height:250px;width:355px;"><br>
   <b><p>STEP 2 : Click on check button to check for Correct Connections.</p></b>
   <b><p>STEP 3 : If Connections are not correct click on reset button for reset connections.</p></b>
-   <b><p>STEP 4 :  click on print button for to save the observations.</p></b>
+   <b><p>STEP 4 :  click on print button to save the observations.</p></b>
 
 <br>
 
@@ -129,7 +129,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/right connections11.PNG" style="height:250px;width:355px;"><br>
   <b><p>STEP 2 : Click on check button to check for Correct Connections.</p></b>
   <b><p>STEP 3 : If Connections are not correct click on reset button for reset connections.</p></b>
-   <b><p>STEP 4 :  click on print button for to save the observations.</p></b>
+   <b><p>STEP 4 :  click on print button to save the observations.</p></b>
 
 <br>
 
@@ -141,5 +141,5 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/right connections12.PNG" style="height:250px;width:355px;"><br>
   <b><p>STEP 2 : Click on check button to check for Correct Connections.</p></b>
   <b><p>STEP 3 : If Connections are not correct click on reset button for reset connections.</p></b>
-   <b><p>STEP 4 :  click on print button for to save the observations.</p></b>
+   <b><p>STEP 4 :  click on print button to save the observations.</p></b>
 

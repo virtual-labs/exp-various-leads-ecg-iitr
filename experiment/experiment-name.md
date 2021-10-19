@@ -1,1 +1,1 @@
-## Experiment name
+## Study of various leads for monitoring of electrocardiogram (ECG).

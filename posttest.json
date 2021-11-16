@@ -1,0 +1,60 @@
+{
+  "version": 2.0,
+  "questions": [
+	{
+	"question":"Einthoven’s equation states that:",
+	"answers":{
+	"a":"I = II + III",
+	"b":"II = I + III",
+	"c":"III = I + II",
+	"d":"I + II + III = 0"
+	},
+	"correctAnswer":"b",
+	"difficulty": "intermediate"
+	},
+	{
+	"question":"____ Leads in a 12-lead ECG are Unipolar:",
+	"answers":{
+	"a":"Limb Leads",
+	"b":"Chest Leads",
+	"c":"Augmented Leads",
+	"d":"Chest & Augmented Leads"
+	},
+	"correctAnswer":"d",
+	"difficulty": "intermediate"
+	},
+	{
+	"question":"____ Leads in a 12-lead ECG are Bipolar:",
+	"answers":{
+	"a":"Limb Leads",
+	"b":"Chest Leads",
+	"c":"Augmented Leads",
+	"d":"Chest & Augmented Leads"
+	},
+	"correctAnswer":"a",
+	"difficulty": "intermediate"
+	},
+	{
+	"question":"Using Kirchoff’s Law, polarity of:",
+	"answers":{
+	"a":"I + II + III = 0",
+	"b":"I = II + III",
+	"c":"II = I + III",
+	"d":"III = I + II"
+	},
+	"correctAnswer":"a",
+	"difficulty": "intermediate"
+	},
+	{
+	"question":"The Hexaxial Reference System is based on:",
+	"answers":{
+	"a":"Limb Leads",
+	"b":"Chest & Augmented Leads",
+	"c":"Limb & Augmented Leads",
+	"d":"Augmented Leads"
+	},
+	"correctAnswer":"c",
+	"difficulty": "intermediate"
+ }
+  ]
+}

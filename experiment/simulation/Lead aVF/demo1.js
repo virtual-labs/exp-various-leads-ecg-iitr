@@ -307,7 +307,7 @@ document.getElementById("check-button").addEventListener("click", function () {
             }
         });
        
-        if ( is_connected_9_12&&is_connected_2_11&&is_connected_3_13&& !unallowed_connection_present) {
+        if ( is_connected_10_12&&is_connected_2_11&&is_connected_3_13&& !unallowed_connection_present) {
             alert("correct connection");
             rightconnection=true;
              document.getElementById("mcbb").disabled = false;

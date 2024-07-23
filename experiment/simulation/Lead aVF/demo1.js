@@ -191,14 +191,14 @@ jsPlumb.ready(function () {
     jsPlumb.fire("jsPlumbDemoLoaded", instance);
 document.getElementById("check-button").addEventListener("click", function () {
       
-        var correct_connections_9_12 = [
+        var correct_connections_10_12 = [
             {
-                "source": "ld9",
+                "source": "ld10",
                 "target": "ld12"
             },
             {
                 "source": "ld12",
-                "target": "ld9"
+                "target": "ld10"
             }
         ];
         var correct_connections_2_11 = [
@@ -207,8 +207,8 @@ document.getElementById("check-button").addEventListener("click", function () {
                 "target": "ld11"
             },
             {
-                "source": "ld2",
-                "target": "ld11"
+                "source": "ld11",
+                "target": "ld2"
             }
         ];
         var correct_connections_3_13 = [
@@ -225,20 +225,20 @@ document.getElementById("check-button").addEventListener("click", function () {
         var allowed_connections = [
            
             {
-                "source": "ld9",
+                "source": "ld10",
                 "target": "ld12"
             },
             {
                 "source": "ld12",
-                "target": "ld9"
+                "target": "ld10"
             },
             {
                 "source": "ld2",
                 "target": "ld11"
             },
             {
-                "source": "ld2",
-                "target": "ld11"
+                "source": "ld11",
+                "target": "ld2"
             },
             {
                 "source": "ld3",
@@ -252,7 +252,7 @@ document.getElementById("check-button").addEventListener("click", function () {
          ];
          var actual_connections = instance.getAllConnections();
        
-        var is_connected_9_12 = false;
+        var is_connected_10_12 = false;
         var is_connected_2_11 = false;
         var is_connected_3_13 = false;
         
@@ -263,8 +263,8 @@ document.getElementById("check-button").addEventListener("click", function () {
                 "source": connection.sourceId,
                 "target": connection.targetId
             };
-            if(!is_connected_9_12){
-                is_connected_9_12 = correct_connections_9_12 .find(function (conn) {
+            if(!is_connected_10_12){
+                is_connected_10_12 = correct_connections_10_12 .find(function (conn) {
                     return conn.source === this_connection.source && conn.target === this_connection.target;
                   });
             }

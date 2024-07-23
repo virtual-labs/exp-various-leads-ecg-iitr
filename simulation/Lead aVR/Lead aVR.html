@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lan="en">
+<head>
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>VIRTUAL_LAB</title>
+	<link rel="stylesheet" href="page.css">
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="demo1.css">
+
+
+<!--link of Seven Segment code  starts-->
+
+    <link href="//fonts.googleapis.com/css?family=Iceberg" rel="stylesheet">
+    <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/ui-darkness/jquery-ui.css" rel="stylesheet">   
+    <link href="prettify.css" rel="stylesheet">
+    <script src="jquery.min.js"></script>
+    <script src="jquery-ui.min.js"></script>
+    <script src="knockout-2.2.1.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.js"></script>
+    <script src="sevenSeg.js"></script>
+    <script src="demo.js"></script>
+    
+<!--link of seven Segment code ends-->
+ 
+
+</head>
+<body>
+
+	<div class="box" style="position: absolute;">
+
+<!--container1 contains logo html code begins-->	
+
+				<div class="container1" style="position: absolute;">
+		    <img src="Indian_Institute_of_Technology_Roorkee_logo.png" width="95px" height="95px" style="margin-left: 5px; float: left;" ><center><h2 >Virtual Labs IIT Roorkee<br>Biomedical Laboratory<br></h2><h2 style="background-color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electrode Placement and study of Lead aVR</h2></center></div>
+		    <div style="position: relative;margin-top: 100px;"></div><br>			
+<br>
+</div>
+
+<!--container1 contains logo html code ends--> 
+
+<!--container2 begins-->
+
+<div class="container2" style="position:absolute;float: left;">
+<p style="color:blue;font-size: 18px;position: absolute;left:675px;top:40px;" >Lead aVR -<br> It  is the signal between the positive electrode on the right arm and the negative electrode which is a combination of the left arm electrode and the left leg electrode.</p>
+
+<p style="color:blue;font-size: 18px;position: absolute;left:753px;top:315px" >Einthoven's Triangle</p>
+
+
+
+  <img src="Assets/Person with lead points.png" style="height:600px;width:1040px;margin-left: -313px;margin-top: -42px;">
+
+
+</div>
+<div class="resistor" style="position:absolute;">
+  <img src="Assets/resistor.png" style="height:220px;width:500px;margin-top: 365px;margin-left:172px;">
+
+
+</div>
+
+<div style="position:absolute;margin-left: 525px;margin-top:360px;">
+
+<img src="Assets/Op map ECG.png" style="height:240px;width:245px;"><br>
+
+
+</div>
+
+<div style="position:absolute;margin-left: 825px;margin-top:330px;">
+
+<img src="Assets/einthoven triangle 1.png" style="height:150px;width:155px;"><br>
+
+
+
+ 
+</div>
+ 
+ 
+  
+
+
+
+
+
+
+
+<!--container2 ends-->
+
+
+<!--INSTRUCTION DROPDOWN HTML STARTS-->
+
+  <div class="dropdown">
+  <button class="dropbtn">INSTRUCTIONS</button>
+  <div class="dropdown-content">
+   <b><p>STEP 1 : Make all the Correct Connections.</p></b>
+   <p>1.&nbsp &nbsp Connect Right Arm Electrode (RA) of human to the positive point (RA) of op-amp circuit.</p> 
+   <p>2.&nbsp &nbsp Connect (avg) point of left arm electrode and left leg electrode of human to the negative point (avg) of op-amp circuit.</p>
+   <p>3.&nbsp &nbsp Connect Right Leg Electrode (RL) of human to the ground point (RL) of op-amp circuit.</p>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Assets/right connections.PNG" style="height:250px;width:355px;"><br>
+  <b><p>STEP 2 : Click on check button to check for Correct Connections.</p></b>
+  <b><p>STEP 3 : If Connections are not correct click on reset button for reset connections.</p></b>
+   <b><p>STEP 4 :  click on print button to save the observations.</p></b>
+
+  </div>
+</div>
+
+<!--INSTRUCTION DROPDOWN HTML ENDS-->
+
+
+
+
+
+<!--connectors html begins-->
+			 
+       <div class="jtk-demo-main">
+            <div class="jtk-demo-canvas canvas-wide animation-demo jtk-surface jtk-surface-nopan" id="canvas">
+              
+                <div class="littledot" id="ld9"><br style=" margin-bottom: 0.8em;display: block;"><a href="#" class="cmdLink detach" rel="ld9" style="font-size: 14px;">LA</a></div>
+                <div class="littledot" id="ld10"><br style=" margin-bottom: 0.8em;display: block;"><a href="#" class="cmdLink detach" rel="ld10" style="font-size: 14px;">LL</a></div>
+                <div class="littledot" id="ld3"><br style=" margin-bottom: 0.8em;display: block;"><a href="#" class="cmdLink detach" rel="ld3" style="font-size: 14px;">RL</a></div>      
+                <div class="littledot" id="ld1"><br style=" margin-bottom: 0.8em;display: block;"><a href="#" class="cmdLink detach" rel="ld1" style="font-size: 14px;">RA</a></div>
+                <div class="littledot" id="ld2"><br style=" margin-bottom: 0.8em;display: block;"><a href="#" class="cmdLink detach" rel="ld2" style="font-size: 14px;">avg</a></div>
+          
+
+
+
+                <div class="littledot" id="ld11"><br style=" margin-bottom: 0.8em;display: block;"><a href="#" class="cmdLink detach" rel="ld11" style="font-size: 14px;">avg</a></div>
+                <div class="littledot" id="ld12"><br style=" margin-bottom: 0.6em;display: block;"><a href="#" class="cmdLink detach" rel="ld12" style="font-size: 14px;">RA</a></div>
+                <div class="littledot" id="ld13"><br style=" margin-bottom: 0.8em;display: block;"><a href="#" class="cmdLink detach" rel="ld13" style="font-size: 14px;">RL</a></div>
+            
+                
+<br><br>
+            </div><br></div>
+        
+
+        <div class="button" id="check-button" style="position:absolute; left: 4em; top: 693px;width: 34px;height: 14px;">CHECK</div>
+        <div class="button"  id="button" style="position:absolute; left: 12em; top: 693px;width: 34px;height: 14px;" onclick="window.location.href = 'Lead aVR.html';">RESET</div>
+        
+        <input style="position:absolute; left: 20em; top: 693px; width: 104px;height: 44px; " type = "button" value = " PRINT  " class="button " onclick="window.print()">
+        
+        <!-- JS -->
+        <script src="jsplumb1.js"></script>
+        <script src="demo1.js"></script>
+        <!-- /JS -->
+
+      
+
+<div class="copyright" style="position:absolute;"><center>&#169Copyright 2021 Virtual Labs, IIT Roorkee</center></div>
+</body>
+
+
+<!--script of stopwatch begins-->
+
+<script>
+
+const timer = document.getElementById('stopwatch');
+var hr = 0;
+var min = 0;
+var sec = 0;
+var stoptime = true;
+function startTimer() {
+  if (stoptime == true) {
+        stoptime = false;
+        timerCycle();
+    }
+}
+function stopTimer() {
+  if (stoptime == false) {
+    stoptime = true;
+  }
+}
+function timerCycle() {
+    if (stoptime == false) {
+    sec = parseInt(sec);
+    min = parseInt(min);
+    hr = parseInt(hr);
+
+    sec = sec + 1;
+
+    if (sec == 60) {
+      min = min + 1;
+      sec = 0;
+    }
+    if (min == 60) {
+      hr = hr + 1;
+      min = 0;
+      sec = 0;
+    }
+    if (sec < 10 || sec == 0) {
+      sec = '0' + sec;
+    }
+    if (min < 10 || min == 0) {
+      min = '0' + min;
+    }
+    if (hr < 10 || hr == 0) {
+      hr = '0' + hr;
+    }
+    timer.innerHTML = hr + ':' + min + ':' + sec;
+    setTimeout("timerCycle()", 1000);
+  }
+}
+function resetTimer() {
+    timer.innerHTML = '00:00:00';
+}
+function resetTimer() {
+    timer.innerHTML = "00:00:00";
+    stoptime = true;
+    hr = 0;
+    sec = 0;
+    min = 0;
+}
+
+</script>
+
+<!--script of stopwatch ends-->
+
+
+<!--Scrypting of seven segment code starts-->
+
+<script>
+
+ (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-44023738-2', 'brandonlwhite.github.io');
+        ga('send', 'pageview');
+       
+</script>
+
+<!--Scrypting of seven segment code ends-->
+ 
+
+</html> 
